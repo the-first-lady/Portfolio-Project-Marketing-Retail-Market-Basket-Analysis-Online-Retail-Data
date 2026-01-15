@@ -50,9 +50,6 @@ Beberapa wawasan yang didapat dari analisis asosiasi produk meliputi:
 - Rekomendasi produk berdasarkan pola pembelian.
 - Optimalisasi tata letak toko dan strategi pemasaran.
 
-
-**Here’s a concise one-page summary table of your Market Basket Analysis insights — it highlights product pairs, confidence, lift, and the business implications in a clear, slide-ready format.**  
-
 ---
 
 ## 📊 Market Basket Analysis – Summary Table  
